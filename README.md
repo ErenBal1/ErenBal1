@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Welcome to My Profile,
 #### I'm a Computer Science Student
 I'm a passionate computer science student with a relentless curiosity for learning. My journey in software development has been diverse, ranging from crafting iOS applications with Swift to building cross-platform wonders using Flutter.
 <img width="1834" alt="banner" src="https://github.com/ErenBal1/ErenBal1/assets/128086424/a2b5572e-d039-4d4a-86a6-c1ff3295ceee">
